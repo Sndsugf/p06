@@ -11,8 +11,8 @@ print("philosophers_stone(): ", alchemy.transmutation.philosophers_stone())
 print("elixir_of_life(): ", alchemy.transmutation.elixir_of_life())
 
 print("\nTesting Package Access:")
-print("alchemy.transmutation.lead_to_gold(): "
-      , alchemy.transmutation.lead_to_gold())
+print("alchemy.transmutation.lead_to_gold(): ",
+      alchemy.transmutation.lead_to_gold())
 print("alchemy.transmutation.philosophers_stone(): [smae as above] ")
 
 print("\nBoth pathways work! Absolute: clear, Relative: concise")
